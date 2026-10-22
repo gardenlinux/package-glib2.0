@@ -1,1 +1,2 @@
 apt_src glib2.0
+version_suffix=gl0
