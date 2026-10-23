@@ -1,2 +1,4 @@
-version_suffix="gl0+bp2150"
-apt_src glib2.0
+version=2.84.4-3
+version_suffix=gl0~bp2150
+
+git_src -b "debian/2.84.4-3" "https://salsa.debian.org/gnome-team/glib.git"
